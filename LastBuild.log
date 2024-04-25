@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2024.2.18.0" projectFile="C:\Users\govle\Desktop\Josué cartable BTS-SIO2\AP\AP - C#\Documentation C#\Documentation C#.shfbproj" started="25/04/2024 15:23:04">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2024.2.18.0" projectFile="C:\Users\govle\Desktop\Josué cartable BTS-SIO2\AP\AP - C#\Documentation C#\Documentation C#.shfbproj" started="25/04/2024 16:40:54">
 <buildStep step="Initializing">
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder&#39;
 Locating components in the following folder(s):
@@ -13,6 +13,7 @@ Website Table of Contents Generator Version 2024.2.18.0
 Copyright &#169; 2006-2024, Eric Woodruff, All Rights Reserved
 -------------------------------
 Clearing any prior web/markdown output...
+    Did not delete folder &#39;C:\Users\govle\Desktop\Josu&#233; cartable BTS-SIO2\AP\AP - C#\Documentation C#\Help\.git&#39; as it contains read-only or hidden folders/files
 </buildStep>
 <buildStep step="ValidatingDocumentationSources">
 Validating and copying documentation source information
@@ -29,14 +30,14 @@ Generating shared content files (en-US, Anglais (&#201;tats-Unis))...
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00,0163
+    Last step completed in 00:00:00,0000
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
-[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateRefInfo-a8193157-06ac-4dc9-952f-d53fc39b9909.proj]
-La g‚n‚ration a d‚marr‚ 25/04/2024 15:23:04.
+[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateRefInfo-630bdb90-f3ea-45ab-9021-285ba14746c7.proj]
+La g‚n‚ration a d‚marr‚ 25/04/2024 16:40:54.
 
-Projet &quot;C:\Users\govle\Desktop\Josu‚ cartable BTS-SIO2\AP\AP - C#\Documentation C#\Help\Working\GenerateRefInfo-a8193157-06ac-4dc9-952f-d53fc39b9909.proj&quot; sur le noud 1 (cibles par d‚faut).
+Projet &quot;C:\Users\govle\Desktop\Josu‚ cartable BTS-SIO2\AP\AP - C#\Documentation C#\Help\Working\GenerateRefInfo-630bdb90-f3ea-45ab-9021-285ba14746c7.proj&quot; sur le noud 1 (cibles par d‚faut).
 PrepareForBuild:
   Cr‚ation du r‚pertoire &quot;obj\Debug\&quot;.
 GenerateRefInfo:
@@ -44,27 +45,27 @@ GenerateRefInfo:
   &#184; Microsoft Corporation. All rights reserved.
   No source code context base path specified.  Source context information is unavailable.
   Loaded 1 assemblies for reflection and 1 dependency assemblies.
-  Wrote information on 2 namespaces, 11 types, and 50 members
+  Wrote information on 1 namespaces, 11 types, and 50 members
   Merging duplicate type and member information
   Merged 0 duplicate type(s) and 0 duplicate member(s)
-G‚n‚ration du projet &quot;C:\Users\govle\Desktop\Josu‚ cartable BTS-SIO2\AP\AP - C#\Documentation C#\Help\Working\GenerateRefInfo-a8193157-06ac-4dc9-952f-d53fc39b9909.proj&quot; termin‚e (cibles par d‚faut).
-    Last step completed in 00:00:00,5157
+G‚n‚ration du projet &quot;C:\Users\govle\Desktop\Josu‚ cartable BTS-SIO2\AP\AP - C#\Documentation C#\Help\Working\GenerateRefInfo-630bdb90-f3ea-45ab-9021-285ba14746c7.proj&quot; termin‚e (cibles par d‚faut).
+    Last step completed in 00:00:00,5321
 </buildStep>
 <buildStep step="ApplyDocumentModel">
 Applying document model to reflection output...
-    Last step completed in 00:00:00,0470
+    Last step completed in 00:00:00,0468
 </buildStep>
 <buildStep step="AddApiTopicFilenames">
 Adding topic filenames to API members...
-    Last step completed in 00:00:00,1250
+    Last step completed in 00:00:00,1259
 </buildStep>
 <buildStep step="GenerateApiTopicManifest">
 Generating API topic manifest...
-    Last step completed in 00:00:00,0786
+    Last step completed in 00:00:00,0626
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00,0156
+    Last step completed in 00:00:00,0000
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
@@ -78,22 +79,22 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file for API content...
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00,0159
+    Last step completed in 00:00:00,0316
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
-    Last step completed in 00:00:00,0671
+    Last step completed in 00:00:00,0472
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00,0041
+    Last step completed in 00:00:00,0000
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
 C:\Users\govle\Desktop\Josu&#233; cartable BTS-SIO2\AP\AP - C#\Documentation C#\Help\Working\BuildAssembler.config
   Updating reference topic configurations.
   No conceptual content.  Removing conceptual content components.
-    Last step completed in 00:00:00,0085
+    Last step completed in 00:00:00,0156
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
@@ -102,14 +103,13 @@ Loading TOC info and adding unique IDs to parent nodes
 </plugIn>Loading configuration...
 Processing topics...
 SHFB: Warning BE0066: ShowMissingComponent: [N:Mediateq_AP_SIO2] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [N:Mediateq_AP_SIO2.metier] Missing &lt;summary&gt; documentation
-Processed 86 topic(s)
-2 warning(s)
+Processed 85 topic(s)
+1 warning(s)
 CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 2 of 15.
 CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 1 of 30.
 <plugIn name="Website Table of Contents Generator" behavior="After" priority="1000">
 Generating TOC fragment files
-</plugIn>    Last step completed in 00:00:01,4487
+</plugIn>    Last step completed in 00:00:01,3949
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -145,26 +145,26 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Defaul
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.inc.php -&gt; C:\Users\govle\Desktop\Josu&#233; cartable BTS-SIO2\AP\AP - C#\Documentation C#\Help\Working\Output\Website\SearchHelp.inc.php
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.php -&gt; C:\Users\govle\Desktop\Josu&#233; cartable BTS-SIO2\AP\AP - C#\Documentation C#\Help\Working\Output\Website\SearchHelp.php
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\Web.Config -&gt; C:\Users\govle\Desktop\Josu&#233; cartable BTS-SIO2\AP\AP - C#\Documentation C#\Help\Working\Output\Website\Web.Config
-    Last step completed in 00:00:00,0391
+    Last step completed in 00:00:00,0286
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
-    Last step completed in 00:00:00,0750
+    Last step completed in 00:00:00,0745
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
-Copied 169 files for the website content
-    Last step completed in 00:00:00,1128
+Copied 167 files for the website content
+    Last step completed in 00:00:00,1193
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00,0110
+    Last step completed in 00:00:00,0156
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 25/04/2024 15:23:06.  Total time: 00:00:02,9090
+Build completed successfully at 25/04/2024 16:40:57.  Total time: 00:00:02,8700
 
 </buildStep>
 </shfbBuild>
